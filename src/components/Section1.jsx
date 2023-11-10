@@ -3,7 +3,7 @@ const Section1 = () => {
     <>
       <div className="flex flex-col items-center justify-center w-screen my-10 sm:px-32 px-5 grotesk">
         <div className="p-5 w-full flex flex-col justify-center items-center white-glassmorphism">
-          <p className="text-2xl font-bold text-center">InsightGPT</p>
+          <p className="text-2xl font-bold text-center">$BCI</p>
           <p className="text-white font-extralight text-justify sm:text-center max-w-[1000px]">
             $BCI is a cutting-edge AI-powered tool designed to analyze
             and forecast the performance of decentralized finance (DeFi) tokens
