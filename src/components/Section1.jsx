@@ -5,20 +5,11 @@ const Section1 = () => {
         <div className="p-5 w-full flex flex-col justify-center items-center white-glassmorphism">
           <p className="text-2xl font-bold text-center">$BCI</p>
           <p className="text-white font-extralight text-justify sm:text-center max-w-[1000px]">
-            $BCI is a cutting-edge AI-powered tool designed to analyze
-            and forecast the performance of decentralized finance (DeFi) tokens
-            in the cryptocurrency market. Equipped with a deep learning model
-            that processes vast amounts of data, including historical price
-            trends, market sentiment, news, and fundamental factors, to provide
-            predictions on how specific DeFi tokens are likely to perform in the
-            near future.
+            Our Mission is to reate a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow.Our Mission
+Create a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow.   In the future, we hope to restore capabilities such as vision, motor function, and speech, and eventually expand how we experience the world.
           </p>
           <p className="text-white font-extralight text-justify sm:text-center max-w-[1000px]">
-            AI's ability to analyze vast amounts of data is a double-edged
-            sword. While it can help improve products and services, it also
-            poses significant threats to individual privacy. AI systems can
-            easily gather and analyze personal data, leading to potential
-            privacy breaches.
+            We keep the people who will use our products in mind, emphasizing safety, accessibility, and reliability during our engineering process. We keep the people who will use our products in mind, emphasizing safety, accessibility, and reliability during our engineering process.  We are currently focused on giving people with quadriplegia the ability to control their computers and mobile devices with their thoughts. Brain-computer interfaces have the potential to change lives for the better. We want to bring this technology from the lab into peoples' homes.
           </p>
         </div>
       </div>
