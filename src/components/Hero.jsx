@@ -10,7 +10,7 @@ const Hero = () => {
             <br />
             Neuralink narrative
             <br />
-            though $BCI
+            through $BCI
           </h1>
           <p className="sm:text-base sm:text-left text-center text-lg font-medium text-[#EBEBF599]">
             brain-computer interface is fully implantable,

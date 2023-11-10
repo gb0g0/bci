@@ -5,7 +5,7 @@ const Section1 = () => {
         <div className="p-5 w-full flex flex-col justify-center items-center white-glassmorphism">
           <p className="text-2xl font-bold text-center">$BCI</p>
           <p className="text-white font-extralight text-justify sm:text-center max-w-[1000px]">
-            Our Mission is to reate a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow.Our Mission
+            Our Mission is to create a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow.Our Mission
 Create a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow.   In the future, we hope to restore capabilities such as vision, motor function, and speech, and eventually expand how we experience the world.
           </p>
           <p className="text-white font-extralight text-justify sm:text-center max-w-[1000px]">
