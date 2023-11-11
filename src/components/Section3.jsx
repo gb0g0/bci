@@ -19,7 +19,7 @@ const Section3 = () => {
               they are trained on.
             </p>
             <div>
-              <a href="https://t.me/InsightGPT_Portal">
+              <a href="https://t.me/BCIERC">
                 <button className="border-[#fff] mb-5">Early Access</button>
               </a>
             </div>
